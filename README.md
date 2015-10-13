@@ -1,2 +1,2 @@
 # bj-bus
-this is public project for wein！
+微信公众号项目
